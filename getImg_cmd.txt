@@ -1,0 +1,1 @@
+scp system64.cs.mtsu.edu:/nfshome/mbo2d/Public/training_set_image_2.zip .
